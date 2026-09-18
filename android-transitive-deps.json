@@ -19,10 +19,9 @@
       "nuget_name": "Square.OkIO",
       "nuget_version": "3.6.0",
       "nuget_covers_maven": "3.6.0",
-      "maven_library_csproj": [
-        "Datadog.Android.Core"
-      ],
+      "maven_library_csproj": [],
       "package_ref_csproj": [
+        "Datadog.Android.Core",
         "Datadog.Maui"
       ]
     },
@@ -30,9 +29,7 @@
       "maven_version": "3.6.0",
       "nuget_name": null,
       "nuget_version": null,
-      "maven_library_csproj": [
-        "Datadog.Android.Core"
-      ],
+      "maven_library_csproj": [],
       "package_ref_csproj": []
     },
     "com.lyft.kronos:kronos-android": {
